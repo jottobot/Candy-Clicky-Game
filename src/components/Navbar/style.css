@@ -1,0 +1,13 @@
+.navbar {
+  margin: 0 auto;
+  background-color: rgb(226, 177, 70);
+  width: 100%;
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+.scores {
+  float: right;
+  font-size: 20px;
+}
+
