@@ -25,4 +25,4 @@ The goal is to reach the highest score with out an incorrect guess.
 * Run "npm start" to run game on local server
 
 ## Deployed
-https://jottobot.github.io/Clicky-Game/
+https://jottobot.github.io/Candy-Clicky-Game/
