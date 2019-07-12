@@ -5,7 +5,7 @@ import './style.css';
 const Footer = props => {
   return (
     <footer className="footer">
-      <span>{props.spanData}</span>
+      <span className="footer">{props.spanData}</span>
     </footer>
   );
 }

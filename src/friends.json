@@ -70,5 +70,17 @@
     "name": "Skittles",
     "image": "https://target.scene7.com/is/image/Target/GUEST_3d2a8073-36e6-4cec-8c8c-872639105820?wid=488&hei=488&fmt=pjpeg",
     "count": 0
+  },
+  {
+    "id": 13,
+    "name": "Gumballs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CMEsThWoxKbMJIc62y5mfY2xdaLQybPXGkEtzRR4PQfKZXU",
+    "count": 0
+  },
+  {
+    "id": 14,
+    "name": "Sweathearts",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVhyujsaB7q_AIg4sK17WQwD-rTOR6AFPmIF5-ZIuLhpdbCEbYg",
+    "count": 0
   }
 ]
